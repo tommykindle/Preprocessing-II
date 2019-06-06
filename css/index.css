@@ -238,6 +238,12 @@ header a {
   width: 30%;
   margin-bottom: 30px;
 }
+.home .content-pick .destination button {
+  background-color: #17A2B8;
+  border: 1px;
+  style: solid;
+  color: #17A2B8;
+}
 .footer {
   width: 100%;
   border-top: 2px dashed silver;
